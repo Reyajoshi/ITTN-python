@@ -1,12 +1,10 @@
-'''
-my_file=open('new_file.txt','a')
-print(my_file.read())
-my_file.write("Hi welcome to IITN\n")
+
+my_file=open('new_file.txt','w')
+print(my_file)
+my_file.write("Welcome to pizza shop")
 my_file.close()
-'''
 #readlines-list ma auncha
-#append use garda tala pati auncha
-#escape sequence-/n,/t
+#escape sequence-\n,\t
 '''
 my_file=open('file.txt','r+')
 print(my_file.read())
