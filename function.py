@@ -1,3 +1,4 @@
+
 for i in range(1,11,10):
     operation=input("Enter any operator(+,-,/,*):")
     first_number=int(input("Enter first number:"))
@@ -12,8 +13,5 @@ for i in range(1,11,10):
         print(add(first_number,second_number))
     elif operation=="-":
         print(sub(first_number,second_number))
+   
 
-
-
-    
-    

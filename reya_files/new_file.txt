@@ -7,3 +7,11 @@ Reya Joshi bill is 460
 Customer name:Paramita
 Purchase date and time:7/14/2023 7:47am
 Paramita bill is 495
+
+Customer name:Reyan Joshi
+Purchase date and time:7/15/2023 Saturday 12:27pm
+Reyan Joshi bill is 500
+
+Customer name:Drishtant
+Purchase date and time:7/15/2023 Saturday 12:29pm
+Drishtant bill is 500

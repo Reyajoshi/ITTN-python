@@ -1,3 +1,4 @@
+
 for i in range(1,11,1):
     print('Welcome to pizza shop!')
     pizza_shop=open("reya_files/new_file.txt","a+")
@@ -23,6 +24,12 @@ for i in range(1,11,1):
         bill+=toppings[key]
     pizza_shop.write(f"{customer_name} bill is {bill}\n")
     pizza_shop.close()
+
+
+
+
+
+
 
 
 
