@@ -1,7 +1,7 @@
 
 my_file=open('new_file.txt','w')
 print(my_file)
-my_file.write("Welcome to pizza shop")
+my_file.write("Welcome!")
 my_file.close()
 #readlines-list ma auncha
 #escape sequence-\n,\t

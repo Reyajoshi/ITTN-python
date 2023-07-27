@@ -26,7 +26,7 @@ reya_object.greet()
 reya_object.greetings()
 reya_object.great()
 
-#class way
+#class way instance method cannot be called in class
 HumanBeing.greetings()
 HumanBeing.great()
 '''

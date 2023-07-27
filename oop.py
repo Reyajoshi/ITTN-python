@@ -53,25 +53,3 @@ brihaspati_object.each_team()
 ace_object.each_team()
 print("The winning team is Brihaspati")
 '''
-class ReyaJoshi:
-    def __init__(self,age,height):
-        self.age=age
-        self.height=height
-
-    def message(self):
-        print("welcome everyone")
-
-class Reya(ReyaJoshi):
-    def __init__(self,legs,age,height):
-        self.legs=legs
-
-        super().__init__(age,height)
-    
-    def huhu(self):
-        print(f"Age:{self.age},Legs:{self.legs},Height:{self.height}")
-
-reya_object=Reya(2,19,5)
-reya_object.huhu()
-reya_object.message()
-    
-    
